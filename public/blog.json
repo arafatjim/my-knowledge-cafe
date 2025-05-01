@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of AI in Daily Life",
+    "cover": "https://i.ibb.co.com/bjpzyJgp/international-day-education-cartoon-style.jpg",
+    "author_img": "https://i.ibb.co.com/sdn0YcyB/profile-Pic.jpg",
+    "author_name": "Arafat Jim",
+    "reading_time": 5,
+    "posted_date": "25 April, 2025",
+    "hashtag": ["#AI", "#Technology", "#Future"]
+  },
+  {
+    "id": 2,
+    "title": "Mastering Tailwind CSS",
+    "cover": "https://i.ibb.co.com/20zG5Bcw/flat-vector6.jpg",
+    "author_img": "https://i.ibb.co.com/9Hp8ntF3/boy1.png",
+    "author_name": "Nayeem Rahman",
+    "reading_time": 7,
+    "posted_date": "28 April, 2025",
+    "hashtag": ["#CSS", "#Tailwind", "#WebDesign"]
+  },
+  {
+    "id": 3,
+    "title": "React Hooks: A Beginner’s Guide",
+    "cover": "https://i.ibb.co.com/3mhwGvYL/415493-PE5-HUX-928.jpg",
+    "author_img": "https://i.ibb.co.com/PvVzC1fV/raiyanfinal.jpg",
+    "author_name": "Raiyan Haque",
+    "reading_time": 6,
+    "posted_date": "30 April, 2025",
+    "hashtag": ["#React", "#JavaScript", "#Frontend"]
+  },
+  {
+    "id": 4,
+    "title": "Why Freelancing is the Future of Work",
+    "cover": "https://i.ibb.co.com/JwZJrHC5/51583.jpg",
+    "author_img": "https://i.ibb.co.com/M5fNRK54/boy2.jpg",
+    "author_name": "Tanvir Ahmed",
+    "reading_time": 4,
+    "posted_date": "22 April, 2025",
+    "hashtag": ["#Freelance", "#RemoteWork", "#Career"]
+  },
+  {
+    "id": 5,
+    "title": "Building Responsive Layouts with Flexbox",
+    "cover": "https://i.ibb.co.com/rKq56fjt/7658.jpg",
+    "author_img": "https://i.ibb.co.com/yFbn92R2/girl1.jpg",
+    "author_name": "Sumaiya Islam",
+    "reading_time": 8,
+    "posted_date": "27 April, 2025",
+    "hashtag": ["#CSS", "#Flexbox", "#ResponsiveDesign"]
+  },
+  {
+    "id": 6,
+    "title": "Top 10 VS Code Extensions for Developers",
+    "cover": "https://i.ibb.co.com/S2bsVrm/back-to-school-web-banner-40.jpg",
+    "author_img": "https://i.ibb.co.com/5XS79NVG/girl2.jpg",
+    "author_name": "Nusrat Jahan",
+    "reading_time": 5,
+    "posted_date": "26 April, 2025",
+    "hashtag": ["#VSCode", "#Productivity", "#DevTools"]
+  },
+  {
+    "id": 7,
+    "title": "Understanding Asynchronous JavaScript",
+    "cover": "https://i.ibb.co.com/Cs70LXc2/education-info19.jpg",
+    "author_img": "https://i.ibb.co.com/M5x9ZvFK/profile.png",
+    "author_name": "Omar Faruk",
+    "reading_time": 9,
+    "posted_date": "29 April, 2025",
+    "hashtag": ["#JavaScript", "#Async", "#Programming"]
+  }
+]
